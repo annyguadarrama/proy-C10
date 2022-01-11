@@ -2,6 +2,6 @@
 
 
 
-#how do i
+how do i
 
-#how do i delete a repository
+how do i delete a repository
